@@ -43,7 +43,7 @@ class DiscordCakeDay {
     return 'Displays a cake next to the username of anyone whose account is having a Discord birthday! (Currently only displays in chat and member list.)\nRequires "Normalize Classes" to be enabled in Zere\'s Fork settings.\nOptional Dependency: ZeresPluginLibrary (for update checks and banner)\n\nCSS Selectors:\n  \u2022 discord-cake-day-message: A message-group that contains a cake.\n  \u2022 discord-cake-day-message-cake: A cake inside a message.\n  \u2022 discord-cake-day-member: A member in the member list that has a cake.\n  \u2022 discord-cake-day-member-cake: A cake in the member list.\n\nMy Discord server: https://nebula.mooo.info/discord-invite\nDM me @Lucario ☉ ∝ x²#7902 or create an issue at https://github.com/Mega-Mewthree/BetterDiscordPlugins for support.';
   }
   getVersion() {
-    return "0.1.4";
+    return "0.1.4",
   }
   getAuthor() {
     return "Mega_Mewthree";
